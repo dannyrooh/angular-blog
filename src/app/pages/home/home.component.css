@@ -1,0 +1,20 @@
+header{
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+.container__articles{
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: line;
+  justify-content: center;
+  width: 100%;
+}
+
+
+.articles__outhers{
+  margin-left: 1rem;
+  width: 400px;
+  border: 2px solid #fff;
+
+}
