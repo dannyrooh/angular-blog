@@ -1,8 +1,4 @@
-header{
-  display: flex;
-  justify-content: center;
-  margin-top: 1rem;
-}
+
 .container__articles{
   margin-top: 1rem;
   display: flex;
