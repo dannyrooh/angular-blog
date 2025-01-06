@@ -7,12 +7,12 @@
   <div>
     <div class="small-card__title">
       <h1>
-        <a href="#">{{cardTitle}}</a>
+        <a [routerLink]="['content', id]">{{cardTitle}}</a>
       </h1>
     </div>
     <div class="small-card__description">
       <p>
-        {{cardDescription}}
+        <a [routerLink]="['content', id]">{{cardDescription}}</a>
       </p>
     </div>
   </div>

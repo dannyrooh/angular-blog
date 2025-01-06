@@ -1,0 +1,13 @@
+.container__content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.content__cover > img{
+  width: 500px;
+  min-width: 500px;
+
+}
